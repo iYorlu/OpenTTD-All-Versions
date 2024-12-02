@@ -1,1 +1,1 @@
-Don't install this. Go to packages.
+Don't install this. Go to releases.
